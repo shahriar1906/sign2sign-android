@@ -1,0 +1,14 @@
+<resources>
+    <color name="shrine_primary">#442C2E</color>
+    <color name="shrine_primary_container">#FEDBD0</color>
+    <color name="shrine_secondary">#FEEAE6</color>
+    <color name="shrine_on_primary">#FFFFFF</color>
+    <color name="shrine_on_primary_container">#442C2E</color>
+    <color name="shrine_on_secondary">#442C2E</color>
+    <color name="shrine_surface">#FFF8F6</color>
+    <color name="shrine_on_surface">#442C2E</color>
+    <color name="shrine_background">#FFF8F6</color>
+    <color name="shrine_outline">#775F62</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
